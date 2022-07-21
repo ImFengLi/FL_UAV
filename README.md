@@ -1,4 +1,5 @@
-
+[Click here to switch to Chinese page] 
+[Click here to switch to Chinese page]:https://github.com/ImFengLi/FL_UAV/blob/master/README.en.md
 # 当前版本号：beta0.1.3
 
 ## 说明：
