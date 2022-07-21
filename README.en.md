@@ -1,5 +1,5 @@
-[Click here to switch to Chinese page]
-[Click here to switch to Chinese page]:https://github.com/ImFengLi/FL_UAV
+# [点击这里切换至中文界面]
+[点击这里切换至中文界面]:https://github.com/ImFengLi/FL_UAV
 # ***Current Version***：beta0.1.3
 
 ## Descriptive information：
