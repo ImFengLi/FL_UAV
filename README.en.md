@@ -1,36 +1,20 @@
-# FL_UAV
 
-#### Description
-FL不开源飞控工程，只发布hex和更新说明
+# ***Current Version***：beta0.1.3
 
-#### Software Architecture
-Software architecture description
+## Descriptive information：
+FL flight control, written by Fengli, is expected to open source in the official version 2.0.0.
+## I/O List
+|MPU6050|BLDC|NRF24L01|
+|---|---|---|
+| *** | *** | *** |
 
-#### Installation
+Please release the technical problems, defect reports, suggestions and other information related to the project through "issue". Please specify the version number and other details when publishing
+## [Click Here to view update information:]
+[Click Here to view update information:]:https://github.com/ImFengLi/FL_UAV/blob/master/FL_UAV_Update.md
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### Instructions
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### Contribution
-
-1.  Fork the repository
-2.  Create Feat_xxx branch
-3.  Commit your code
-4.  Create Pull Request
+## To-do List：
 
 
-#### Gitee Feature
+E-mail<imfengli@petalmail.com>
 
-1.  You can use Readme\_XXX.md to support different languages, such as Readme\_en.md, Readme\_zh.md
-2.  Gitee blog [blog.gitee.com](https://blog.gitee.com)
-3.  Explore open source project [https://gitee.com/explore](https://gitee.com/explore)
-4.  The most valuable open source project [GVP](https://gitee.com/gvp)
-5.  The manual of Gitee [https://gitee.com/help](https://gitee.com/help)
-6.  The most popular members  [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+# Not yet completed
