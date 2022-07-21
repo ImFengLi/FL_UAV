@@ -1,4 +1,5 @@
-
+[Click here to switch to Chinese page]
+[Click here to switch to Chinese page]:https://github.com/ImFengLi/FL_UAV
 # ***Current Version***：beta0.1.3
 
 ## Descriptive information：
@@ -15,6 +16,6 @@ Please release the technical problems, defect reports, suggestions and other inf
 ## To-do List：
 
 
-E-mail<imfengli@petalmail.com>
+E-mail[<imfengli@petalmail.com>]
 
 # Not yet completed
